@@ -30,10 +30,12 @@ A modern and responsive Movie Search Application built using **React, Tailwind C
 
 
 ### 🔍 Search Results
-![Search](./screenshots/search.png)
+![Search]<img width="1886" height="879" alt="image" src="https://github.com/user-attachments/assets/b88922af-2d13-47d1-9bb6-d40696a895c3" />
+
 
 ### 🎬 Movie Details
-![Details](./screenshots/details.png)
+![Details]<img width="1919" height="880" alt="image" src="https://github.com/user-attachments/assets/3d19d446-3550-4e12-9de5-2cb2a4eb8bfd" />
+
 
 ## 🚀 Features
 
